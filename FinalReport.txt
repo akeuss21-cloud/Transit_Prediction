@@ -1,0 +1,20 @@
+================
+ Engine Specifications 
+================ 
+The Thrust for the Custom Engine is 2940.000 Newtons 
+The Specific Impulse for the Custom Engine is 30000000.000 Seconds 
+The Mass Flow Rate for the Custom Engine is 0.000 Kilograms per Second 
+================
+ Ship Specifications 
+================ 
+The Total Mass for the ship is 425815 Kilograms 
+The Fuel Mass for the ship is 10000 Kilograms 
+The Dry Mass for the ship is 415815 Kilograms 
+The Engine Mass for the ship is  90 Kilograms 
+================
+ Lunar Transit Prediction 
+================ 
+The total transit time is 679.65 hours 
+The burn time is 40779.12 minutes 
+The coast time is 0.00 minutes 
+The total distance traveled is 40000000.00 kilometers 
